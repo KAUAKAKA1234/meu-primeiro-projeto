@@ -1,6 +1,6 @@
 body
-{color: red;
-background-color: darkgray;}
+{color: white;
+background-color: black;}
 ul{
     display: flex;
     justify-content:  space-between;
@@ -12,15 +12,15 @@ ul{
         width: 150px;
         height: 150px;
          border-radius: 50%;
-         border: 5px solid red;
+         border: 5px solid white;
 
     }
     .center {
         text-align: center;
     }
     
-    h1{ color: red;}
-    h2{color: darkmagenta;}
-    h3{ color: darkmagenta;}
+    h1{ color: white;}
+    h2{color: lightgray;}
+    h3{ color: lightgray;}
     video{ text-align: center;}
 
