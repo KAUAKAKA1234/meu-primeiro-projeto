@@ -1,6 +1,11 @@
 body
+
 {color: white;
 background-color: black;}
+
+{color: red;
+background-color: darkgray;}
+
 ul{
     display: flex;
     justify-content:  space-between;
@@ -12,13 +17,17 @@ ul{
         width: 150px;
         height: 150px;
          border-radius: 50%;
+
          border: 5px solid white;
+
+         border: 5px solid red;
 
     }
     .center {
         text-align: center;
     }
     
+
     h1{ color: white;}
     h2{color: lightgray;}
     h3{ color: lightgray;}
@@ -29,3 +38,10 @@ ul{
     background-color: black;
 }
 background image{ src: url("https://images.unsplash.com/photo-1682685790910-1e3f5c7d8b9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");}
+=======
+    h1{ color: red;}
+    h2{color: darkmagenta;}
+    h3{ color: darkmagenta;}
+    video{ text-align: center;}
+
+>>>>>>> 7f1857a53df4eb7d5a53a76e73df9793150ea05c
